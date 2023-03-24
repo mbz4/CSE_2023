@@ -9,7 +9,7 @@ z0 = np.array([[10000],
                [0]])
 
 a = 1/100 # natural causes
-b = 10/100 # infecgted rate
+b = 10/100 # infected rate
 c = 1/100 # immunized rate
 d = 50/100 # inf dead
 e = 25/100 # inf cured
